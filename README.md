@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hello, I'm Bilal! 😄<br><br>I have a degree in computer engineering and I am passionately immersed in the world of software development. Over time, I have explored various programming languages, but currently, my main focus lies in Python and C# .NET. 🐍💻<br><br>In Python, I have worked on diverse projects, leveraging several widely-used libraries. The flexibility and extensive applications of Python have captivated me, and I continue to work on projects that can be applied across different industries. 🚀📚<br><br>My current area of concentration revolves around Kafka framework and machine learning. I am taking courses to deepen my knowledge in handling data streams efficiently and processing data through Kafka. Simultaneously, I am honing my skills in machine learning to contribute to data analytics and artificial intelligence projects. 📊🤖<br><br>Outside the coding realm, I am a cinema enthusiast, and I even centered my graduation project around this passion. Exploring the world of films allows me to understand different cultures and embark on captivating journeys through various stories. 🎬🌟<br><br>Additionally, I prioritize leading a healthy lifestyle and engage in sports. My interests include fitness and Formula 1, helping me maintain balance and vitality in my life. 💪🏎️<br><br>Thank you, and see you around! 👋😊
-
+GWB
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-göksu-849b6122b) 
